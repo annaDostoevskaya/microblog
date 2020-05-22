@@ -1,2 +1,2 @@
 # testingFlask
-In this is repository i write microblog with MIgel's megabook-flask
+In this is repository i write microblog with Migel's megabook-flask
